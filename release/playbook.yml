@@ -5,6 +5,7 @@
     - role: telusdigital.nginx
 
   vars:
+    environment_tier: next
     nginx_port: 80
     nginx_user: www-data
     nginx_group: www-data
@@ -28,7 +29,7 @@
     nginx_error_log_critical_only: no
 
     nginx_distribution:
-      - nginx-naxsi
+      - nginx-core
     nginx_hide_version: yes
     nginx_naxsi_enabled: no
     nginx_attack_mitigation_enabled: no
