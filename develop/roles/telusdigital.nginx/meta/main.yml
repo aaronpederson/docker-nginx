@@ -1,0 +1,19 @@
+---
+dependencies:
+  - role: telusdigital.python
+
+galaxy_info:
+  author: "Chris Olstrom"
+  company: "TELUS digital"
+  description: "nginx is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP proxy server."
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+      - lucid
+      - precise
+      - trusty
+      - utopic
+      - vivid
+  categories:
+    - web
