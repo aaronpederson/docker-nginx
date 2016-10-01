@@ -2,7 +2,7 @@
 
 [nginx](http://nginx.org/) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP proxy server
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/nginx.svg)](https://microbadger.com/images/aaronpederson/nginx "Get your own image badge on microbadger.com")
 
 Tunables
 --------
